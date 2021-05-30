@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/TechMate/static/css/main.667bc1a7.chunk.css",
+    "main.js": "/TechMate/static/js/main.9d36038d.chunk.js",
+    "main.js.map": "/TechMate/static/js/main.9d36038d.chunk.js.map",
+    "runtime-main.js": "/TechMate/static/js/runtime-main.8939d748.js",
+    "runtime-main.js.map": "/TechMate/static/js/runtime-main.8939d748.js.map",
+    "static/css/2.74c02967.chunk.css": "/TechMate/static/css/2.74c02967.chunk.css",
+    "static/js/2.ac526940.chunk.js": "/TechMate/static/js/2.ac526940.chunk.js",
+    "static/js/2.ac526940.chunk.js.map": "/TechMate/static/js/2.ac526940.chunk.js.map",
+    "index.html": "/TechMate/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/TechMate/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.667bc1a7.chunk.css.map": "/TechMate/static/css/main.667bc1a7.chunk.css.map",
+    "static/js/2.ac526940.chunk.js.LICENSE.txt": "/TechMate/static/js/2.ac526940.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/TechMate/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/TechMate/static/media/app.8714f365.jpeg",
+    "static/media/digital.dad8270c.jpeg": "/TechMate/static/media/digital.dad8270c.jpeg",
+    "static/media/hero-img.53f1b546.png": "/TechMate/static/media/hero-img.53f1b546.png",
+    "static/media/img2.d12e2a27.svg": "/TechMate/static/media/img2.d12e2a27.svg",
+    "static/media/marketing.f629aa39.jpg": "/TechMate/static/media/marketing.f629aa39.jpg",
+    "static/media/s1.8e51e67d.jpg": "/TechMate/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/TechMate/static/media/software.1cb4dc77.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8939d748.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.ac526940.chunk.js",
+    "static/css/main.667bc1a7.chunk.css",
+    "static/js/main.9d36038d.chunk.js"
+  ]
+}
